@@ -22,7 +22,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>High-Level Steps</h2>
 
 - Created Virtual Machines
-- Step 2
+- Installed Wireshark
 - Step 3
 - Step 4
 
@@ -35,11 +35,10 @@ Created two virtual machines in Azure. One meachine running Windows, and the oth
 </p>
 <br />
 
+![image](https://github.com/cedhorton/azure-network-protocols/assets/173581553/8d43bf5b-5058-45c0-9ebb-7f32c6d80a1f)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Wireshark installation. 
 </p>
 <br />
 
