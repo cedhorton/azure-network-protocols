@@ -26,6 +26,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Observed ICMP Traffic
 - Added a Security Rule in VM2
 - Observed Firewall Implemented
+- Filtered Traffic Through SSH and Observed
 
 <h2>Actions and Observations</h2>
 
@@ -64,3 +65,9 @@ Observed traffic being blocked by firewall I implemented.
 </p>
 <br />
 
+![image](https://github.com/cedhorton/azure-network-protocols/assets/173581553/1f3debd2-d572-4e30-bf52-1b8212785b06)
+
+<p>
+Filtering traffic through SSH.
+</p>
+<br />
