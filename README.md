@@ -24,7 +24,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Created Virtual Machines
 - Installed Wireshark
 - Observed ICMP Traffic
-- Step 4
+- Added a Security Rule in VM2
 
 <h2>Actions and Observations</h2>
 
@@ -46,5 +46,12 @@ Wireshark installation.
 
 <p>
 Observing ICMP traffic between VM1 and VM2. Used Powershell to ping VM2.
+</p>
+<br />
+
+![image](https://github.com/cedhorton/azure-network-protocols/assets/173581553/49ef6422-c7a2-447b-976d-6d93c27db766)
+
+<p>
+Went into VM2's firewall settings to block incoming ICMP pings.
 </p>
 <br />
